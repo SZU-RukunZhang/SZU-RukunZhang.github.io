@@ -9,7 +9,7 @@ redirect_from:
 
 <span class='anchor' id='EDUCATION'></span>
 
-EDUCATION
+EDUCATIONn
 ------
 * **Beijing Normal University**, Ph.D. Student of Journalism and Communication Studies
   <br />Sept 2021 - June 2024
@@ -21,7 +21,7 @@ EDUCATION
   <br />Sept 2015 - June 2019
 
 <span class='anchor' id='ENGLISH PUBLICATIONS'></span>
-
+<br />
 
 ENGLISH PUBLICATIONS
 ------
@@ -32,7 +32,7 @@ ENGLISH PUBLICATIONS
 * Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. Proceedings of the 10th International Conference on Computational Social Science.
 
 <span class='anchor' id='CHINESE PUBLICATIONS'></span>
-
+<br />
 
 CHINESE PUBLICATIONS
 ------
@@ -50,7 +50,7 @@ CHINESE PUBLICATIONS
 * 徐敬宏,张如坤.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)     
 
 <span class='anchor' id='AWARDS AND HONORS'></span>
-
+<br />
 
 AWARDS AND HONORS 
 ------
