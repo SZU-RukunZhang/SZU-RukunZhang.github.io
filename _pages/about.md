@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<span class='anchor' id='EDUCATION'></span>
 EDUCATION
 ------
 * **Beijing Normal University**, Ph.D. Student of Journalism and Communication Studies
@@ -43,7 +43,7 @@ CHINESE PUBLICATIONS
 * 徐敬宏,张如坤.“介入性”与“客观性”共生:建设性新闻生产实践体系研究——兼与常江教授商榷[J].中国出版,2021,(2):20-26. (Replacing objectivity with intervention? A debate on constructive news production)
 * 徐敬宏,张如坤.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)     
 
-
+<span class='anchor' id='AWARDS AND HONORS'></span>
 AWARDS AND HONORS 
 ------
 * Beijing Normal University, Outstanding Graduate; First Class Academic Scholarship, "Academic Innovation Award" in Communication (Grand Prize), Qi Hao Award "Academic Newcomer Award" (5th Edition), "Graduate Academic Award" (Grand Prize)      
