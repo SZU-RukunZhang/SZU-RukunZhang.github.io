@@ -22,6 +22,7 @@ EDUCATION
 
 <span class='anchor' id='ENGLISH PUBLICATIONS'></span>
 
+
 ENGLISH PUBLICATIONS
 ------
 * Xu, J., & **Zhang, R\***. (2024). Attitudinal, normative, and resource factors affecting communication scholars’ intention to adopt an open science: A replication study. Media and Communication. 12, 1-17
@@ -31,6 +32,7 @@ ENGLISH PUBLICATIONS
 * Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. Proceedings of the 10th International Conference on Computational Social Science.
 
 <span class='anchor' id='CHINESE PUBLICATIONS'></span>
+
 
 CHINESE PUBLICATIONS
 ------
@@ -49,6 +51,7 @@ CHINESE PUBLICATIONS
 
 <span class='anchor' id='AWARDS AND HONORS'></span>
 
+
 AWARDS AND HONORS 
 ------
 * Beijing Normal University, Outstanding Graduate; First Class Academic Scholarship, "Academic Innovation Award" in Communication (Grand Prize), Qi Hao Award "Academic Newcomer Award" (5th Edition), "Graduate Academic Award" (Grand Prize)      
@@ -65,6 +68,7 @@ AWARDS AND HONORS
   Academic Year: 2015-2016
 
 <span class='anchor' id='ENGLISH LEVEL'></span>
+
 
 ENGLISH LEVEL 
 ------
