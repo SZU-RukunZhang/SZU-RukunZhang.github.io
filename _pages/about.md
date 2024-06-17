@@ -17,8 +17,7 @@ EDUCATION
 * **Beijing Normal University**, Master of Communication Studies
   Sept 2019 - June 2021
 * **Central South University**, Bachelor of Digital Publishing (Major) and Bachelor of English (Minor)
-
-  Sept 2015 - June 2019
+  <br/ >Sept 2015 - June 2019
 
 
 ENGLISH PUBLICATIONS
