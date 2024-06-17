@@ -68,7 +68,7 @@ AWARDS AND HONORS
   Academic Year: 2015-2016
 
 <span class='anchor' id='ENGLISH LEVEL'></span>
-
+<br />
 
 ENGLISH LEVEL 
 ------
