@@ -9,7 +9,7 @@ redirect_from:
 
 <span class='anchor' id='EDUCATION'></span>
 
-EDUCATIONn
+EDUCATION
 ------
 * **Beijing Normal University**, Ph.D. Student of Journalism and Communication Studies
   <br />Sept 2021 - June 2024
