@@ -1,4 +1,16 @@
 # main links links
 main:
+  - title: "EDUCATION"
+    url: "/#EDUCATION"
+
+  - title: "ENGLISH PUBLICATIONS"
+    url: "/#ENGLISH PUBLICATIONS"
+
+  - title: "CHINESE PUBLICATIONS"
+    url: "/#CHINESE PUBLICATIONS"
+
   - title: "AWARDS AND HONORS"
     url: "/#AWARDS AND HONORS"
+
+  - title: "ENGLISH LEVEL"
+    url: "/#ENGLISH LEVEL"
