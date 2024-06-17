@@ -9,7 +9,7 @@ redirect_from:
 
 
 EDUCATION
-======
+------
 * **Beijing Normal University**, Ph.D. Student of Journalism and Communication Studies
   <br />Sept 2021 - June 2024
 * **MIT Media Lab**, Visiting Scholar
@@ -21,7 +21,7 @@ EDUCATION
 
 
 ENGLISH PUBLICATIONS
-======
+------
 * Xu, J., & **Zhang, R\***. (2024). Attitudinal, normative, and resource factors affecting communication scholars’ intention to adopt an open science: A replication study. Media and Communication. 12, 1-17
 * **Zhang, R**., Gong, J., Firdaus, A., Ma, S., & Xu, J*. (2023). Automatic coding mechanisms for open-ended questions in journalism surveys: An application guide. Digital Journalism, 11(2), 321-342.
 * **Zhang, R**., Gong, J., Hou, W., & Xu, J*. (2022). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. International Journal of Communication, 16, 1-20.
@@ -29,7 +29,7 @@ ENGLISH PUBLICATIONS
 * Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. Proceedings of the 10th International Conference on Computational Social Science.
 
 CHINESE PUBLICATIONS
-======
+------
 * 徐敬宏,郭迪帆,张如坤.建设性新闻对受众风险感知与应对的影响研究——以健康传播为例[J].新闻与传播研究,2024,(4):81-95.(Research on the impact of constructive news on audience risk perception and response: Perspective of health communication)
 * 徐敬宏,张如坤,郭婧玉,巩见坤.弹幕与规训：网络直播中的性别凝视——基于斗鱼大数据的分析[J].国际新闻界,2022,44(4):146-151+153-167. (Bullet Screen and Discipline: Gender Gaze in Webcast Based on Douyu Big Data)
 * 徐敬宏,张如坤.未来已来：开放科学与定性研究——对30位中国传播学者的深度访谈[J].现代传播(中国传媒大学学报),2022,44(4):11-18. (Communication Stepping towards Open Science: Opportunities, Challenges, and Future)
