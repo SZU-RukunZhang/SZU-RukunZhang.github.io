@@ -20,6 +20,7 @@ EDUCATION
 * **Central South University**, Bachelor of Digital Publishing (Major) and English (Minor)
   <br />Sept 2015 - June 2019
 
+<span class='anchor' id='ENGLISH PUBLICATIONS'></span>
 
 ENGLISH PUBLICATIONS
 ------
@@ -28,6 +29,8 @@ ENGLISH PUBLICATIONS
 * **Zhang, R**., Gong, J., Hou, W., & Xu, J*. (2022). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. International Journal of Communication, 16, 1-20.
 * Xu, J., & **Zhang, R***. (2024). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. International Journal of Communication. [Accepted]
 * Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. Proceedings of the 10th International Conference on Computational Social Science.
+
+<span class='anchor' id='CHINESE PUBLICATIONS'></span>
 
 CHINESE PUBLICATIONS
 ------
@@ -61,7 +64,7 @@ AWARDS AND HONORS
 * Undergraduate National Scholarship; Central South University Academic Scholarship; Outstanding Student
   Academic Year: 2015-2016
 
-
+<span class='anchor' id='ENGLISH LEVEL'></span>
 
 ENGLISH LEVEL 
 ------
