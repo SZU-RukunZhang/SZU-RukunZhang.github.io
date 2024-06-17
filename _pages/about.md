@@ -16,7 +16,7 @@ EDUCATION
   <br />Sept 2022 - Aug 2023
 * **Beijing Normal University**, Master of Communication Studies
   <br />Sept 2019 - June 2021
-* **Central South University**, Bachelor of Digital Publishing (Major) and Bachelor of English (Minor)
+* **Central South University**, Bachelor of Digital Publishing (Major) and English (Minor)
   <br />Sept 2015 - June 2019
 
 
