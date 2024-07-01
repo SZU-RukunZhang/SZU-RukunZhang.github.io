@@ -28,7 +28,7 @@ ENGLISH PUBLICATIONS
 * Xu, J., & **Zhang, R\***. (2024). Attitudinal, normative, and resource factors affecting communication scholars’ intention to adopt an open science: A replication study. Media and Communication. 12, 1-17
 * **Zhang, R**., Gong, J., Firdaus, A., Ma, S., & Xu, J*. (2023). Automatic coding mechanisms for open-ended questions in journalism surveys: An application guide. Digital Journalism, 11(2), 321-342.
 * **Zhang, R**., Gong, J., Hou, W., & Xu, J*. (2022). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. International Journal of Communication, 16, 1-20.
-* Xu, J., & **Zhang, R***. (2024). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. International Journal of Communication. [Accepted]
+* Xu, J., & **Zhang, R\***. (2024). Subjective norm, self-efficacy, and policy acceptance for open communication science: An empirical analysis. International Journal of Communication. [Forthcoming]
 * Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. Proceedings of the 10th International Conference on Computational Social Science.
 
 <span class='anchor' id='CHINESE PUBLICATIONS'></span>
