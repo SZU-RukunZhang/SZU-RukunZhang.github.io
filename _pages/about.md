@@ -63,8 +63,8 @@ AWARDS AND HONORS
   Academic Year: 2019-2020
 * Undergraduate National Scholarship; Central South University Academic Scholarship; Hunan Province Outstanding Graduate  
   Academic Year: 2017-2018
-* Baosteel Outstanding Student Award; Central South University Academic Scholarship; Outstanding Student
-  \nAcademic Year: 2016-2017
+* Baosteel Outstanding Student Award; Central South University Academic Scholarship; Outstanding Student  
+  Academic Year: 2016-2017
 * Undergraduate National Scholarship; Central South University Academic Scholarship; Outstanding Student  
   Academic Year: 2015-2016
 
