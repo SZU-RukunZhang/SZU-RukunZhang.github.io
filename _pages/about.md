@@ -73,57 +73,26 @@ AWARDS AND HONORS
 TEAM MEMBER
 ------
 
-<div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/zhengyijia.jpg' alt="sym" width="80%"></div>
-</div>
-<div class='paper-box-text' markdown="1">
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>人物简介</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="photo">
+            < img src="../images/zhengyijia.jpg" alt="人物照片" class="profile-pic">
+        </div>
+        <div class="bio">
+            <h1>人物姓名</h1>
+            <p>这里是人物的简介。你可以根据需要添加详细的文字介绍，讲述人物的背景、成就或者其他相关信息。</p >
+        </div>
+    </div>
+</body>
+</html>
 
-[Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)
-
-[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://openreview.net/profile?id=~Hantao_Zhang2), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), Hao Wang, [Hao Liang](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ&view_op=list_works&sortby=pubdate), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/zhengyijia.jpg' alt="sym" width="80%"></div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[LightM-UNet: Mamba Assists in Lightweight
-UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
-
-
-[Weibin Liao](https://scholar.google.com/citations?hl=zh-CN&user=4yUXvDsAAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Yasha Wang](https://www.aminer.cn/profile/yasha-wang/542cc019dabfae4b91c24265), [Liantao Ma](http://scholar.pku.edu.cn/malt)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">AAAI 2024</div><img src='../images/zhengyijia.jpg' alt="sym" width="80%"></div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[BiPFT: Binary Pre-trained Foundation Transformer with Low-rank Estimation of
-Binarization Residual Polynomials](https://arxiv.org/pdf/2312.08937.pdf)
-
-[Xingrun Xing](https://scholar.google.com.hk/citations?hl=zh-CN&user=sEdxu1UAAAAJ&view_op=list_works&sortby=pubdate),[Li Du](https://scholar.google.com.hk/citations?user=ag1JoOEAAAAJ&hl=zh-CN), **Xinyuan Wang**, Xianlin Zeng, [Yequan Wang](https://www.wangyequan.com), [Zheng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=S2bil1cAAAAJ&view_op=list_works&sortby=pubdate), [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='../images/zhengyijia.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Leveraging Frequency Domain Learning in 3D
-Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
-
-**Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Hongming Dai](https://www.linkedin.com/in/hongming-dai-76b936176/), [Gangming Zhao](https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en), [Jinpeng Li](https://scholar.google.com/citations?user=hzEaITAAAAAJ&hl=zh-CN), Xiao Zhang, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
-</div>
-</div>
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
