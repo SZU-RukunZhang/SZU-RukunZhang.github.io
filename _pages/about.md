@@ -74,7 +74,7 @@ TEAM MEMBER
 ------
 
 <div class="wrapper">
-    <div class="left1">left</div>
+    <div class="left1">left<img src='../images/zhengyijia.jpg' alt="sym" width="40%"></div>
     <div class="right1">right</div>
 </div>
 <style>
