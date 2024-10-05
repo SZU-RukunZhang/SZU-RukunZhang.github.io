@@ -21,7 +21,6 @@ EDUCATION
   <br />Sept 2015 - June 2019
 
 <span class='anchor' id='ENGLISH PUBLICATIONS'></span>
-<br />
 
 ENGLISH PUBLICATIONS
 ------
@@ -32,7 +31,6 @@ ENGLISH PUBLICATIONS
 * **Zhang, R**., Gong, J., Firdaus, A., Ma, S., & Xu, J\*. (2023). Automatic coding mechanisms for open-ended questions in journalism surveys: An application guide. *Digital Journalism*, 11(2), 321-342  
 * **Zhang, R**., Gong, J., Hou, W., & Xu, J\*. (2022). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. *International Journal of Communication*, 16, 1-20  
 <span class='anchor' id='CHINESE PUBLICATIONS'></span>
-<br />
 
 CHINESE PUBLICATIONS
 ------
@@ -50,7 +48,6 @@ CHINESE PUBLICATIONS
 * 徐敬宏,张如坤.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)     
 
 <span class='anchor' id='AWARDS AND HONORS'></span>
-<br />
 
 AWARDS AND HONORS 
 ------
@@ -67,8 +64,7 @@ AWARDS AND HONORS
 * Undergraduate National Scholarship; Central South University Academic Scholarship; Outstanding Student  
   Academic Year: 2015-2016
 
-<span class='anchor' id='ENGLISH LEVEL'></span>
-<br />
+<span class='anchor' id='TEAM MEMBER'></span>
 
 TEAM MEMBER
 ------
