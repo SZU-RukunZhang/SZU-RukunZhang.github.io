@@ -81,11 +81,9 @@ TEAM MEMBER
     .left1{
         width:200px;
         float:left;
-        background:red;
     }
     .right1{
         margin-left:200px;
-        background:orange;
     }
 </style>
 
