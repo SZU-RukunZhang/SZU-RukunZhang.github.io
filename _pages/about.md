@@ -108,28 +108,18 @@ o	2020-2023 Excellent Student
 <div class="wrapper">
     <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="40%"></div>
     <div class="right1">right
-    Education
-•	Shenzhen University – Master of Journalism and Communication
-•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
-Research Interests
-•	Network and New Media
-•	Media Effects
-•	Large Language Models
-•	Subcultures
-Academic Experiences
-•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
-•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
-•	2021 China International "Internet+" Innovation Competition – School-Level Project
-Awards and Honors
-•	Shenzhen University
-o	2024 Special Academic Scholarship
-•	Jiangxi University of Finance and Economics
-o	2024 Outstanding Graduate
-o	2023 Academic Star
-o	2022 Self-improvement Star, LC Scholarship
-o	2021 Jiangxi Building Materials Scholarship
-o	2020-2024 First-Class Academic Scholarship
-o	2020-2023 Excellent Student
+      **Yiling Liu(刘奕伶)**
+Education Background:
+Tianjin Foreign Studies University, Bachelor of Management
+Shenzhen University, Master of Journalism and Communication 
+
+Research Interests:
+Intercultural Communication, Media Effects, Social Media Use
+
+Academic Experiences:
+4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
+University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
+
 
     </div>
 </div>
