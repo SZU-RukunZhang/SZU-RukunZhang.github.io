@@ -70,19 +70,19 @@ TEAM MEMBER
 ------
 
 <div class="wrapper">
-    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="60%"><br /><b>Yijia Zheng(郑忆佳)</b></div>
+    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="60%"><br /><b>Yijia Zheng<br />郑忆佳</b></div>
     <div class="right1">
 
       
 <b>Education</b>
-<br /><span style="display:block;text-indent:2em;">•	Shenzhen University – Master of Journalism and Communication</span>
-<span style="display:block;text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</span>
+<br />•	Shenzhen University – Master of Journalism and Communication
+•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
 <b>Research Interests</b>
-<span style="display:block;text-indent:2em;">•	Network and New Media, Media Effects, Large Language Models, Large Language Models</span>
+•	Network and New Media, Media Effects, Large Language Models, Large Language Models
 <b>Academic Experiences</b>
-<span style="display:block;text-indent:2em;">•	2023 “SFLEP Cup” National English Debate Contest – Third Prize</span>
-<span style="display:block;text-indent:2em;">•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize</span>
-<span style="display:block;text-indent:2em;">•	2021 China International "Internet+" Innovation Competition – School-Level Project</span>
+•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
+•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
+•	2021 China International "Internet+" Innovation Competition – School-Level Project
 
     </div>
 </div>
@@ -90,19 +90,19 @@ TEAM MEMBER
 
 <br />
 <div class="wrapper">
-    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"><br /><b>Yiling Liu(刘奕伶)</b></div>
+    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"><br /><b>Yiling Liu<br />刘奕伶</b></div>
     <div class="right1">
       
 <b>Education</b>
-<span style="display:block;text-indent:2em;">•	Tianjin Foreign Studies University, Bachelor of Management</span>
-<span style="display:block;text-indent:2em;">•	Shenzhen University, Master of Journalism and Communication </span>
+•	Tianjin Foreign Studies University, Bachelor of Management
+•	Shenzhen University, Master of Journalism and Communication
 
 <b>Research Interests</b>
-<span style="display:block;text-indent:2em;">•	Intercultural Communication, Media Effects, Social Media Use</span>
+•	Intercultural Communication, Media Effects, Social Media Use
 
 <b>Academic Experiences</b>
-<span style="display:block;text-indent:2em;">•	4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize</span>
-<span style="display:block;text-indent:2em;">•	University Student Innovation and Entrepreneurship Competition, City-Level Project Approval</span>
+•	4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
+•	University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
 
 
     </div>
