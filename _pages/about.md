@@ -74,7 +74,7 @@ TEAM MEMBER
 ------
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/zhengyijia.jpg' alt="sym" width="80%"></div>
+<div><div class="badge">arxiv release</div><img src='../images/zhengyijia.jpg' alt="sym" width="30%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
