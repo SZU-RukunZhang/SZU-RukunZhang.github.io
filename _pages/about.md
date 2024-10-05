@@ -111,15 +111,15 @@ TEAM MEMBER
     <div class="right1">
       <b>Yiling Liu(刘奕伶)</b>
 <br />Education Background:
-<br />Tianjin Foreign Studies University, Bachelor of Management
-<br />Shenzhen University, Master of Journalism and Communication 
+<br />•	Tianjin Foreign Studies University, Bachelor of Management
+<br />•	Shenzhen University, Master of Journalism and Communication 
 
 <br />Research Interests:
-<br />Intercultural Communication, Media Effects, Social Media Use
+<br />•	Intercultural Communication, Media Effects, Social Media Use
 
 <br />Academic Experiences:
-<br />4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
-<br />University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
+<br />•	4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
+<br />•	University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
 
 
     </div>
