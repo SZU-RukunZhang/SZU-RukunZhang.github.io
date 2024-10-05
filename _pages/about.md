@@ -25,21 +25,12 @@ EDUCATION
 
 ENGLISH PUBLICATIONS
 ------
-* Xu, J., & **Zhang, R\***. (2024). Attitudinal, normative, and resource factors affecting communication scholars’ intention to adopt an open science: A replication study. Media and Communication. 12, 1-17
-* **Zhang, R**., Gong, J., Firdaus, A., Ma, S., & Xu, J*. (2023). Automatic coding mechanisms for open-ended questions in journalism surveys: An application guide. Digital Journalism, 11(2), 321-342
-* **Zhang, R**., Gong, J., Hou, W., & Xu, J*. (2022). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. International Journal of Communication, 16, 1-20
-* Xu, J., & **Zhang, R\***. (2024). Subjective norm, self-efficacy, and policy acceptance for open communication science: An empirical analysis. International Journal of Communication. [Forthcoming]
-* Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. Proceedings of the 10th International Conference on Computational Social Science
-* Zhu, Y., Xu, J., **Zhang, R.**, Lan, D., & Jiang, Y. Prior attitude, individualism and perceived scientists expertise: Exploring motivated reasoning of scientific information about HIV risks of homosexuals in China. (2024). Journal of Media Psychology. https://doi.org/10.1027/1864-1105/a000437
-
 * **Zhang, R**., & Xu, J\*. (2024). Subjective norm, self-efficacy, and policy acceptance for open communication science. *International Journal of Communication*, 18, 3964-3986  
 * Xu, J., & **Zhang, R\***. (2024). Attitudinal, normative, and resource factors affecting communication scholars’ intention to adopt an open science: A replication study. *Media and Communication*, 12, 1-17  
-* Zhu, Y., Xu, J., **Zhang, R**., Lan, D., & Jiang, Y. (2024). Prior attitude, individualism and perceived scientists expertise: Exploring motivated reasoning of scientific information about HIV risks of homosexuals in China. *Journal of Media Psychology: Theories, Methods, and Applications*. https://doi.org/10.1027/1864-1105/a000437  
-* Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. *Proceedings of the 10th International Conference on Computational Social Science*  
+* Zhu, Y., Xu, J.\*, **Zhang, R**., Lan, D., & Jiang, Y. (2024). Prior attitude, individualism and perceived scientists expertise: Exploring motivated reasoning of scientific information about HIV risks of homosexuals in China. *Journal of Media Psychology: Theories, Methods, and Applications*. https://doi.org/10.1027/1864-1105/a000437  
+* Jiang, H., Liu, N., Overney, C., **Zhang, R**., Kabbara, J., & Roy, D\*. (2024). Lost in translation: Investigating systematic discrepancies between parallel English and Chinese names of American Chinese restaurants. *Proceedings of the 10th International Conference on Computational Social Science*  
 * **Zhang, R**., Gong, J., Firdaus, A., Ma, S., & Xu, J\*. (2023). Automatic coding mechanisms for open-ended questions in journalism surveys: An application guide. *Digital Journalism*, 11(2), 321-342  
 * **Zhang, R**., Gong, J., Hou, W., & Xu, J\*. (2022). Is open communication scholarship a promise or peril? Preliminary interviews with qualitative communication scholars. *International Journal of Communication*, 16, 1-20  
-
-
 <span class='anchor' id='CHINESE PUBLICATIONS'></span>
 <br />
 
