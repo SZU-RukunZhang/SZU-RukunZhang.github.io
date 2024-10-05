@@ -79,8 +79,8 @@ TEAM MEMBER
 
       <b>Yijia Zheng(郑忆佳)</b>
     <br />Education
-<br />•	Shenzhen University – Master of Journalism and Communication
-<br />•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
+<br /><p style="text-indent:2em;">•	Shenzhen University – Master of Journalism and Communication</p>
+<br /><p style="text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</p>
 <br />Research Interests
 <br />•	Network and New Media
 <br />•	Media Effects
