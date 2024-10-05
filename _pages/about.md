@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <span class='anchor' id='EDUCATION'></span>
-
 EDUCATION
 ------
 * **Beijing Normal University**, Ph.D. of Journalism and Communication Studies
