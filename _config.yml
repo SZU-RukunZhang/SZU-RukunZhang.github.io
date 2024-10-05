@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "RUKUN ZHANG"
 title_separator          : "-"
-name                     : &name "RUKUN ZHANG  <br /> 张如坤"
+name                     : &name "RUKUN ZHANG 张如坤  <br /> 张如坤"
 description              : &description "personal description"
 url                      : https://SZU-RukunZhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
