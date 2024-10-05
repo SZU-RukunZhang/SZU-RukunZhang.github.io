@@ -78,47 +78,48 @@ TEAM MEMBER
     <div class="right1">
 
       **Yijia Zheng(郑忆佳)**
-    Education
-•	Shenzhen University – Master of Journalism and Communication
-•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
-Research Interests
-•	Network and New Media
-•	Media Effects
-•	Large Language Models
-•	Subcultures
-Academic Experiences
-•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
-•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
-•	2021 China International "Internet+" Innovation Competition – School-Level Project
-Awards and Honors
-•	Shenzhen University
-o	2024 Special Academic Scholarship
-•	Jiangxi University of Finance and Economics
-o	2024 Outstanding Graduate
-o	2023 Academic Star
-o	2022 Self-improvement Star, LC Scholarship
-o	2021 Jiangxi Building Materials Scholarship
-o	2020-2024 First-Class Academic Scholarship
-o	2020-2023 Excellent Student
+    <br />Education
+<br />•	Shenzhen University – Master of Journalism and Communication
+<br />•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
+<br />Research Interests
+<br />•	Network and New Media
+<br />•	Media Effects
+<br />•	Large Language Models
+<br />•	Subcultures
+<br />Academic Experiences
+<br />•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
+<br />•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
+<br />•	2021 China International "Internet+" Innovation Competition – School-Level Project
+<br />Awards and Honors
+<br />•	Shenzhen University
+<br />o	2024 Special Academic Scholarship
+<br />•	Jiangxi University of Finance and Economics
+<br />o	2024 Outstanding Graduate
+<br />o	2023 Academic Star
+<br />o	2022 Self-improvement Star, LC Scholarship
+<br />o	2021 Jiangxi Building Materials Scholarship
+<br />o	2020-2024 First-Class Academic Scholarship
+<br />o	2020-2023 Excellent Student
 
     </div>
 </div>
 
 
+<br />
 <div class="wrapper">
     <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="40%"></div>
     <div class="right1">right
       **Yiling Liu(刘奕伶)**
-Education Background:
-Tianjin Foreign Studies University, Bachelor of Management
-Shenzhen University, Master of Journalism and Communication 
+<br />Education Background:
+<br />Tianjin Foreign Studies University, Bachelor of Management
+<br />Shenzhen University, Master of Journalism and Communication 
 
-Research Interests:
-Intercultural Communication, Media Effects, Social Media Use
+<br />Research Interests:
+<br />Intercultural Communication, Media Effects, Social Media Use
 
-Academic Experiences:
-4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
-University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
+<br />Academic Experiences:
+<br />4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
+<br />University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
 
 
     </div>
