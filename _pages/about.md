@@ -11,7 +11,7 @@ redirect_from:
 
 EDUCATION
 ------
-* **Beijing Normal University**, Ph.D. Student of Journalism and Communication Studies
+* **Beijing Normal University**, Ph.D. of Journalism and Communication Studies
   <br />Sept 2021 - June 2024
 * **MIT Media Lab**, Visiting Scholar
   <br />Sept 2022 - Aug 2023
