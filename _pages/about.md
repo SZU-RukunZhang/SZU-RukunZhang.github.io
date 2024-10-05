@@ -70,10 +70,10 @@ TEAM MEMBER
 ------
 
 <div class="wrapper">
-    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="60%"></div>
+    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="60%"><b>Yijia Zheng(郑忆佳)</b></div>
     <div class="right1">
 
-      <b>Yijia Zheng(郑忆佳)</b>
+      
     <br />Education
 <br /><span style="display:block;text-indent:2em;">•	Shenzhen University – Master of Journalism and Communication</span>
 <span style="display:block;text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</span>
@@ -90,9 +90,9 @@ Academic Experiences
 
 <br />
 <div class="wrapper">
-    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"></div>
+    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"><b>Yiling Liu(刘奕伶)</b></div>
     <div class="right1">
-      <b>Yiling Liu(刘奕伶)</b>
+      
 <br />Education
 <span style="display:block;text-indent:2em;">•	Tianjin Foreign Studies University, Bachelor of Management</span>
 <span style="display:block;text-indent:2em;">•	Shenzhen University, Master of Journalism and Communication </span>
