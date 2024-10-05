@@ -93,8 +93,8 @@ TEAM MEMBER
     <div class="right1">
       
 <b>Education</b>
-<br />•	Tianjin Foreign Studies University, Bachelor of Management
-<br />•	Shenzhen University, Master of Journalism and Communication
+<br />•	Tianjin Foreign Studies University – Bachelor of Management
+<br />•	Shenzhen University – Master of Journalism and Communication
 
 <br /><b>Research Interests</b>
 <br />•	Intercultural Communication, Media Effects, Social Media Use
