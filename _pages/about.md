@@ -80,12 +80,12 @@ TEAM MEMBER
       <b>Yijia Zheng(郑忆佳)</b>
     <br />Education
 <br /><p style="text-indent:2em;">•	Shenzhen University – Master of Journalism and Communication</p>
-<br /><p style="text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</p>
+<p style="text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</p>
 <br />Research Interests
-<br />•	Network and New Media
-<br />•	Media Effects
-<br />•	Large Language Models
-<br />•	Subcultures
+<br /><p style="text-indent:2em;">•	Network and New Media</p>
+<br /><p style="text-indent:2em;">•	Media Effects</p>
+<br /><p style="text-indent:2em;">•	Large Language Models</p>
+<br /><p style="text-indent:2em;">•	Subcultures</p>
 <br />Academic Experiences
 <br />•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
 <br />•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
