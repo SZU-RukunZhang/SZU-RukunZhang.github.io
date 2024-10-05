@@ -87,19 +87,19 @@ TEAM MEMBER
 <br /><p style="text-indent:2em;">•	Large Language Models</p>
 <br /><p style="text-indent:2em;">•	Subcultures</p>
 <br />Academic Experiences
-<br />•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
-<br />•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
-<br />•	2021 China International "Internet+" Innovation Competition – School-Level Project
+<br /><p style="text-indent:2em;">•	2023 “SFLEP Cup” National English Debate Contest – Third Prize</p>
+<br /><p style="text-indent:2em;">•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize</p>
+<br /><p style="text-indent:2em;">•	2021 China International "Internet+" Innovation Competition – School-Level Project</p>
 <br />Awards and Honors
-<br />•	Shenzhen University
-<br />o	2024 Special Academic Scholarship
-<br />•	Jiangxi University of Finance and Economics
-<br />o	2024 Outstanding Graduate
-<br />o	2023 Academic Star
-<br />o	2022 Self-improvement Star, LC Scholarship
-<br />o	2021 Jiangxi Building Materials Scholarship
-<br />o	2020-2024 First-Class Academic Scholarship
-<br />o	2020-2023 Excellent Student
+<br /><p style="text-indent:2em;">•	Shenzhen University</p>
+<br /><p style="text-indent:2em;">o	2024 Special Academic Scholarship</p>
+<br /><p style="text-indent:2em;">•	Jiangxi University of Finance and Economics</p>
+<br /><p style="text-indent:2em;">o	2024 Outstanding Graduate</p>
+<br /><p style="text-indent:2em;">o	2023 Academic Star</p>
+<br /><p style="text-indent:2em;">o	2022 Self-improvement Star, LC Scholarship</p>
+<br /><p style="text-indent:2em;">o	2021 Jiangxi Building Materials Scholarship</p>
+<br /><p style="text-indent:2em;">o	2020-2024 First-Class Academic Scholarship</p>
+<br /><p style="text-indent:2em;">o	2020-2023 Excellent Student</p>
 
     </div>
 </div>
