@@ -82,10 +82,7 @@ TEAM MEMBER
 <br /><span style="display:block;text-indent:2em;">•	Shenzhen University – Master of Journalism and Communication</span>
 <span style="display:block;text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</span>
 Research Interests
-<span style="display:block;text-indent:2em;">•	Network and New Media</span>
-<span style="display:block;text-indent:2em;">•	Media Effects</span>
-<span style="display:block;text-indent:2em;">•	Large Language Models</span>
-<span style="display:block;text-indent:2em;">•	Subcultures</span>
+<span style="display:block;text-indent:2em;">•	Network and New Media, Media Effects, Large Language Models, Large Language Models</span>
 Academic Experiences
 <span style="display:block;text-indent:2em;">•	2023 “SFLEP Cup” National English Debate Contest – Third Prize</span>
 <span style="display:block;text-indent:2em;">•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize</span>
@@ -100,14 +97,14 @@ Academic Experiences
     <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"></div>
     <div class="right1">
       <b>Yiling Liu(刘奕伶)</b>
-<br />Education Background:
+<br />Education
 <span style="display:block;text-indent:2em;">•	Tianjin Foreign Studies University, Bachelor of Management</span>
 <span style="display:block;text-indent:2em;">•	Shenzhen University, Master of Journalism and Communication </span>
 
-Research Interests:
+Research Interests
 <span style="display:block;text-indent:2em;">•	Intercultural Communication, Media Effects, Social Media Use</span>
 
-Academic Experiences:
+Academic Experiences
 <span style="display:block;text-indent:2em;">•	4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize</span>
 <span style="display:block;text-indent:2em;">•	University Student Innovation and Entrepreneurship Competition, City-Level Project Approval</span>
 
