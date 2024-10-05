@@ -74,7 +74,7 @@ TEAM MEMBER
     <div class="right1">
 
       
-    <br /><b>Education</b>
+<b>Education</b>
 <br /><span style="display:block;text-indent:2em;">•	Shenzhen University – Master of Journalism and Communication</span>
 <span style="display:block;text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</span>
 <b>Research Interests</b>
@@ -93,7 +93,7 @@ TEAM MEMBER
     <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"><br /><b>Yiling Liu(刘奕伶)</b></div>
     <div class="right1">
       
-<br /><b>Education</b>
+<b>Education</b>
 <span style="display:block;text-indent:2em;">•	Tianjin Foreign Studies University, Bachelor of Management</span>
 <span style="display:block;text-indent:2em;">•	Shenzhen University, Master of Journalism and Communication </span>
 
