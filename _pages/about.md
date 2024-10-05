@@ -74,9 +74,63 @@ TEAM MEMBER
 ------
 
 <div class="wrapper">
-    <div class="left1">left<img src='../images/zhengyijia.jpg' alt="sym" width="40%"></div>
-    <div class="right1">right</div>
+    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="40%"></div>
+    <div class="right1">right
+    Education
+•	Shenzhen University – Master of Journalism and Communication
+•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
+Research Interests
+•	Network and New Media
+•	Media Effects
+•	Large Language Models
+•	Subcultures
+Academic Experiences
+•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
+•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
+•	2021 China International "Internet+" Innovation Competition – School-Level Project
+Awards and Honors
+•	Shenzhen University
+o	2024 Special Academic Scholarship
+•	Jiangxi University of Finance and Economics
+o	2024 Outstanding Graduate
+o	2023 Academic Star
+o	2022 Self-improvement Star, LC Scholarship
+o	2021 Jiangxi Building Materials Scholarship
+o	2020-2024 First-Class Academic Scholarship
+o	2020-2023 Excellent Student
+
+    </div>
 </div>
+
+<div class="wrapper">
+    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="40%"></div>
+    <div class="right1">right
+    Education
+•	Shenzhen University – Master of Journalism and Communication
+•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
+Research Interests
+•	Network and New Media
+•	Media Effects
+•	Large Language Models
+•	Subcultures
+Academic Experiences
+•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
+•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
+•	2021 China International "Internet+" Innovation Competition – School-Level Project
+Awards and Honors
+•	Shenzhen University
+o	2024 Special Academic Scholarship
+•	Jiangxi University of Finance and Economics
+o	2024 Outstanding Graduate
+o	2023 Academic Star
+o	2022 Self-improvement Star, LC Scholarship
+o	2021 Jiangxi Building Materials Scholarship
+o	2020-2024 First-Class Academic Scholarship
+o	2020-2023 Excellent Student
+
+    </div>
+</div>
+
 <style>
     .left1{
         width:200px;
