@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "RUKUN ZHANG"
+title                    : "RUKUN ZHANG <br /> 张如坤"
 title_separator          : "-"
 name                     : &name "RUKUN ZHANG"
 description              : &description "personal description"
