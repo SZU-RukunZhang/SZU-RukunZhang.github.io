@@ -75,7 +75,9 @@ TEAM MEMBER
 
 <div class="wrapper">
     <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="40%"></div>
-    <div class="right1">right
+    <div class="right1">
+
+      **Yijia Zheng(郑忆佳)**
     Education
 •	Shenzhen University – Master of Journalism and Communication
 •	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
@@ -101,6 +103,7 @@ o	2020-2023 Excellent Student
 
     </div>
 </div>
+
 
 <div class="wrapper">
     <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="40%"></div>
