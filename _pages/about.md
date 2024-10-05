@@ -73,26 +73,21 @@ AWARDS AND HONORS
 TEAM MEMBER
 ------
 
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>人物简介</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <div class="photo">
-            < img src="../images/zhengyijia.jpg" alt="人物照片" class="profile-pic">
-        </div>
-        <div class="bio">
-            <h1>人物姓名</h1>
-            <p>这里是人物的简介。你可以根据需要添加详细的文字介绍，讲述人物的背景、成就或者其他相关信息。</p >
-        </div>
-    </div>
-</body>
-</html>
+<div class="wrapper">
+    <div class="left1">left</div>
+    <div class="right1">right</div>
+</div>
+<style>
+    .left1{
+        width:200px;
+        float:left;
+        background:red;
+    }
+    .right1{
+        margin-left:200px;
+        background:orange;
+    }
+</style>
 
 
 
