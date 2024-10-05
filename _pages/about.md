@@ -82,24 +82,24 @@ TEAM MEMBER
 <br /><p style="text-indent:2em;">•	Shenzhen University – Master of Journalism and Communication</p>
 <p style="text-indent:2em;">•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)</p>
 <br />Research Interests
-<br /><p style="text-indent:2em;">•	Network and New Media</p>
-<br /><p style="text-indent:2em;">•	Media Effects</p>
-<br /><p style="text-indent:2em;">•	Large Language Models</p>
-<br /><p style="text-indent:2em;">•	Subcultures</p>
+<p style="text-indent:2em;">•	Network and New Media</p>
+<p style="text-indent:2em;">•	Media Effects</p>
+<p style="text-indent:2em;">•	Large Language Models</p>
+<p style="text-indent:2em;">•	Subcultures</p>
 <br />Academic Experiences
-<br /><p style="text-indent:2em;">•	2023 “SFLEP Cup” National English Debate Contest – Third Prize</p>
-<br /><p style="text-indent:2em;">•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize</p>
-<br /><p style="text-indent:2em;">•	2021 China International "Internet+" Innovation Competition – School-Level Project</p>
+<p style="text-indent:2em;">•	2023 “SFLEP Cup” National English Debate Contest – Third Prize</p>
+<p style="text-indent:2em;">•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize</p>
+<p style="text-indent:2em;">•	2021 China International "Internet+" Innovation Competition – School-Level Project</p>
 <br />Awards and Honors
-<br /><p style="text-indent:2em;">•	Shenzhen University</p>
-<br /><p style="text-indent:2em;">o	2024 Special Academic Scholarship</p>
-<br /><p style="text-indent:2em;">•	Jiangxi University of Finance and Economics</p>
-<br /><p style="text-indent:2em;">o	2024 Outstanding Graduate</p>
-<br /><p style="text-indent:2em;">o	2023 Academic Star</p>
-<br /><p style="text-indent:2em;">o	2022 Self-improvement Star, LC Scholarship</p>
-<br /><p style="text-indent:2em;">o	2021 Jiangxi Building Materials Scholarship</p>
-<br /><p style="text-indent:2em;">o	2020-2024 First-Class Academic Scholarship</p>
-<br /><p style="text-indent:2em;">o	2020-2023 Excellent Student</p>
+<p style="text-indent:2em;">•	Shenzhen University</p>
+<p style="text-indent:2em;">o	2024 Special Academic Scholarship</p>
+<p style="text-indent:2em;">•	Jiangxi University of Finance and Economics</p>
+<p style="text-indent:2em;">o	2024 Outstanding Graduate</p>
+<p style="text-indent:2em;">o	2023 Academic Star</p>
+<p style="text-indent:2em;">o	2022 Self-improvement Star, LC Scholarship</p>
+<p style="text-indent:2em;">o	2021 Jiangxi Building Materials Scholarship</p>
+<p style="text-indent:2em;">o	2020-2024 First-Class Academic Scholarship</p>
+<p style="text-indent:2em;">o	2020-2023 Excellent Student</p>
 
     </div>
 </div>
