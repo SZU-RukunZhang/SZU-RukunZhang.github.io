@@ -76,13 +76,13 @@ TEAM MEMBER
       
 <b>Education</b>
 <br />•	Shenzhen University – Master of Journalism and Communication
-•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
-<b>Research Interests</b>
-•	Network and New Media, Media Effects, Large Language Models, Large Language Models
-<b>Academic Experiences</b>
-•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
-•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
-•	2021 China International "Internet+" Innovation Competition – School-Level Project
+<br />•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
+<br /><b>Research Interests</b>
+<br />•	Network and New Media, Media Effects, Large Language Models, Large Language Models
+<br /><b>Academic Experiences</b>
+<br />•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
+<br />•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
+<br />•	2021 China International "Internet+" Innovation Competition – School-Level Project
 
     </div>
 </div>
@@ -94,15 +94,15 @@ TEAM MEMBER
     <div class="right1">
       
 <b>Education</b>
-•	Tianjin Foreign Studies University, Bachelor of Management
-•	Shenzhen University, Master of Journalism and Communication
+<br />•	Tianjin Foreign Studies University, Bachelor of Management
+<br />•	Shenzhen University, Master of Journalism and Communication
 
-<b>Research Interests</b>
-•	Intercultural Communication, Media Effects, Social Media Use
+<br /><b>Research Interests</b>
+<br />•	Intercultural Communication, Media Effects, Social Media Use
 
-<b>Academic Experiences</b>
-•	4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
-•	University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
+<br /><b>Academic Experiences</b>
+<br />•	4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
+<br />•	University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
 
 
     </div>
