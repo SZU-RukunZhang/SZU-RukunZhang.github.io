@@ -74,7 +74,7 @@ TEAM MEMBER
 ------
 
 <div class="wrapper">
-    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="60%"></div>
+    <div class="left1"><img src='../images/zhengyijia1.jpg' alt="sym" width="60%"></div>
     <div class="right1">
 
       <b>Yijia Zheng(郑忆佳)</b>
@@ -94,7 +94,7 @@ Academic Experiences
 
 <br />
 <div class="wrapper">
-    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"></div>
+    <div class="left1"><img src='../images/liuyiling1.jpg' alt="sym" width="60%"></div>
     <div class="right1">
       <b>Yiling Liu(刘奕伶)</b>
 <br />Education
