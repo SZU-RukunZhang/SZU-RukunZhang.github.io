@@ -107,6 +107,26 @@ TEAM MEMBER
     </div>
 </div>
 
+<br />
+<div class="wrapper">
+    <div class="left1"><img src='../images/QingQingXie.jpg' alt="sym" width="60%"><br /><b>QingQing Xie<br />谢青青</b></div>
+    <div class="right1">
+      
+<b>Education</b>
+<br />•	Shenzhen University – Master of Journalism and Communication
+<br />•	Ningxia University – Bachelor of Journalism
+
+<br /><b>Research Interests</b>
+<br />•	New Media Communication, Media Effects, International Communication
+
+<br /><b>Academic Experiences</b>
+<br />•	2023 Ningxia University Students' Original Literature Competition
+<br />• 2021 Yinchuan New Media Contest-Third prizel
+
+
+    </div>
+</div>
+
 <style>
     .left1{
         width:200px;
