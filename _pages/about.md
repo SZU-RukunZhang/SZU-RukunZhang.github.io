@@ -121,7 +121,7 @@ TEAM MEMBER
 
 <br /><b>Academic Experiences</b>
 <br />•	2023 Ningxia University Students' Original Literature Competition
-<br />• 2021 Yinchuan New Media Contest-Third prizel
+<br />• 2021 Yinchuan New Media Contest-Third prize
 
 
     </div>
