@@ -54,14 +54,14 @@ CONFERENCE AND INVITED TALK
 
 <div class="wrapper">
     <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="50%"></div>
-    <div class="left1"><img src='../images/ICA.jpg' alt="sym" width="50%"></div>
+    <div class="left2"><img src='../images/ICA.jpg' alt="sym" width="50%"></div>
     <div class="right1">
       
-<br />* 110th Annual NCA Global Convention, New Orleans, LA, United States (2024, November).
-<br />* 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
-<br />* 75th Annual ICA Conference, Gold Coast, Australia (June 2024) [Conference Presentation].
-<br />* 72nd Annual ICA Conference, Paris, France (May, 2022) [Conference Presentation].
-<br />* School of Humanities, Central South University, July 12, 2024. "How to Use Large Language Models for Empirical Research in Journalism" [Invited Talk].
+<br />• 110th Annual NCA Global Convention, New Orleans, LA, United States (2024, November).
+<br />• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
+<br />• 75th Annual ICA Conference, Gold Coast, Australia (June 2024) [Conference Presentation].
+<br />• 72nd Annual ICA Conference, Paris, France (May, 2022) [Conference Presentation].
+<br />• School of Humanities, Central South University, July 12, 2024. "How to Use Large Language Models for Empirical Research in Journalism" [Invited Talk].
 
     </div>
 </div>
