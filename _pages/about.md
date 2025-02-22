@@ -49,17 +49,16 @@ CHINESE PUBLICATIONS
 
 <span class='anchor' id='CONFERENCE AND INVITED TALK'></span>
 
-CONFERENCE AND INVITED TALKS
+CONFERENCE AND INVITED TALK
 ------
 
 <div class="wrapper">
-    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="30%"></div>
+    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="50%"></div>
     <div class="right1">
 
 * 110th Annual NCA Global Convention, New Orleans, LA, United States (2024, November).
 
 <span class='anchor' id='AWARDS AND HONORS'></span>
-
 
 AWARDS AND HONORS 
 ------
