@@ -47,7 +47,7 @@ CHINESE PUBLICATIONS
 * 徐敬宏,<b>张如坤</b>.“介入性”与“客观性”共生:建设性新闻生产实践体系研究——兼与常江教授商榷[J].中国出版,2021,(2):20-26. (Replacing objectivity with intervention? A debate on constructive news production)
 * 徐敬宏,<b>张如坤</b>.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)     
 
-<span class='anchor' id='AWARDS AND HONORS'></span>
+<span class='anchor' id='CONFERENCE AND INVITED TALK'></span>
 
 CONFERENCE AND INVITED TALK
 ------
@@ -57,6 +57,8 @@ CONFERENCE AND INVITED TALK
     <div class="right1">
 
 * 110th Annual NCA Global Convention, New Orleans, LA, United States (2024, November).
+
+<span class='anchor' id='AWARDS AND HONORS'></span>
 
 
 AWARDS AND HONORS 
