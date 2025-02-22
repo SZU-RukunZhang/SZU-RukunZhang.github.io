@@ -53,11 +53,9 @@ CONFERENCE AND INVITED TALK
 ------
 
 <div class="wrapper">
-    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="50%"></div>
-    <div class="left2"><img src='../images/ICA.jpg' alt="sym" width="50%"></div>
+    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="50%"><img src='../images/ICA.jpg' alt="sym" width="50%"></div>
     <div class="right1">
       
-<br />• 110th Annual NCA Global Convention, New Orleans, LA, United States (2024, November).
 <br />• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
 <br />• 75th Annual ICA Conference, Gold Coast, Australia (June 2024) [Conference Presentation].
 <br />• 72nd Annual ICA Conference, Paris, France (May, 2022) [Conference Presentation].
