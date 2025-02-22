@@ -23,6 +23,7 @@ EDUCATION
 
 ENGLISH PUBLICATIONS
 ------
+* **Zhang, R**., & Li, B. (2025). Exploring the dynamics of data sharing in open science among Chinese scholars: An integrated PMT and TPB approach. Global Media and China, 0(0). https://doi.org/10.1177/20594364251319562
 * **Zhang, R**., & Xu, J\*. (2024). Subjective norm, self-efficacy, and policy acceptance for open communication science. *International Journal of Communication*, 18, 3964-3986  
 * Xu, J., & **Zhang, R\***. (2024). Attitudinal, normative, and resource factors affecting communication scholars’ intention to adopt an open science: A replication study. *Media and Communication*, 12, 1-17  
 * Zhu, Y., Xu, J.\*, **Zhang, R**., Lan, D., & Jiang, Y. (2024). Prior attitude, individualism and perceived scientists expertise: Exploring motivated reasoning of scientific information about HIV risks of homosexuals in China. *Journal of Media Psychology: Theories, Methods, and Applications*. https://doi.org/10.1027/1864-1105/a000437  
@@ -47,6 +48,16 @@ CHINESE PUBLICATIONS
 * 徐敬宏,<b>张如坤</b>.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)     
 
 <span class='anchor' id='AWARDS AND HONORS'></span>
+
+CONFERENCE AND INVITED TALK
+------
+
+<div class="wrapper">
+    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="60%"></div>
+    <div class="right1">
+
+* 110th Annual NCA Global Convention, New Orleans, LA, United States (2024, November).
+
 
 AWARDS AND HONORS 
 ------
