@@ -53,7 +53,7 @@ CONFERENCE AND INVITED TALK
 ------
 
 <div class="wrapper">
-    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="50%"><br /><img src='../images/ICA.jpg' alt="sym" width="50%"></div>
+    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="60%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="60%"></div>
     <div class="right1">
       
 <br />• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
