@@ -49,7 +49,7 @@ CHINESE PUBLICATIONS
 
 <span class='anchor' id='CONFERENCE AND INVITED TALK'></span>
 
-CONFERENCE AND INVITED TALK
+CONFERENCE AND INVITED TALKS
 ------
 
 <div class="wrapper">
