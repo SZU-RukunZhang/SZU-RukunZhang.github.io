@@ -11,9 +11,9 @@ redirect_from:
 
 RESEARCH FIELD
 ------
-Communication Effect Studies
-<br />Internet and New Media
-<br />Communication Technology
+* Communication Effect Studies
+* Internet and New Media
+* Communication Technology
 
 <span class='anchor' id='EDUCATION'></span>
 
@@ -78,7 +78,6 @@ CONFERENCE AND INVITED TALK
 <div class="wrapper">
     <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="60%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="60%"></div>
     <div class="right1">
-      
 <br />• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
 <br />• 75th Annual ICA Conference, Gold Coast, Australia (June 2024) [Conference Presentation].
 <br />• 72nd Annual ICA Conference, Paris, France (May, 2022) [Conference Presentation].
@@ -185,7 +184,7 @@ TEAM MEMBER
 <br />祝贺郑忆佳、刘奕伶同学的2篇摘要入选武汉大学第七届智能营销传播学术工作坊
 <br />祝贺郑忆佳、谢青青同学获得2024级硕士研究生新生特等奖学金
 
-<img src='../images/xqq1.jpg' alt="sym" width="60%"><img src='../images/xqq2.jpg' alt="sym" width="60%">
+<img src='../images/xqq1.jpg' alt="sym" width="30%"><img src='../images/xqq2.jpg' alt="sym" width="30%">
 
 <style>
     .left1{
