@@ -77,7 +77,7 @@ CONFERENCE AND INVITED TALK
 <div class="wrapper">
     <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="60%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="60%"></div>
     <div class="right1">
-<br />• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
+• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
 <br />• 75th Annual ICA Conference, Gold Coast, Australia (June 2024) [Conference Presentation].
 <br />• 72nd Annual ICA Conference, Paris, France (May, 2022) [Conference Presentation].
 <br />• School of Media and Communication, Beijing Normal University at Zhuhai, March 14, 2025. “Generative AI and creative research methods” [Invited Talk].
