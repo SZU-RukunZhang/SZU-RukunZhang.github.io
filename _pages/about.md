@@ -62,19 +62,18 @@ CHINESE PUBLICATIONS
 
 MONOGRAPH
 ------
-*Digital Civilization and the AI-Driven Communication Revolution: Practices and Applications of Large Language Models*. Beijing: Communication University of China Press, forthcoming 2026–2027. 
+* *Digital Civilization and the AI-Driven Communication Revolution: Practices and Applications of Large Language Models*. Beijing: Communication University of China Press, forthcoming 2026–2027. 
 
 <span class='anchor' id='RESEARCH PROJECT'></span>
 
 RESEARCH PROJECT
 ------
-Guangdong Philosophy and Social Science Foundation 2025 
+* Guangdong Philosophy and Social Science Foundation 2025 
 
 <span class='anchor' id='CONFERENCE AND INVITED TALK'></span>
 
 CONFERENCE AND INVITED TALK
 ------
-
 <div class="wrapper">
     <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="60%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="60%"></div>
     <div class="right1">
@@ -184,7 +183,7 @@ TEAM MEMBER
 <br />祝贺郑忆佳、刘奕伶同学的2篇摘要入选武汉大学第七届智能营销传播学术工作坊
 <br />祝贺郑忆佳、谢青青同学获得2024级硕士研究生新生特等奖学金
 
-<img src='../images/xqq1.jpg' alt="sym" width="30%"><img src='../images/xqq2.jpg' alt="sym" width="30%">
+<img src='../images/xqq1.jpg' alt="sym" width="30%">    <img src='../images/xqq2.jpg' alt="sym" width="30%">
 
 <style>
     .left1{
