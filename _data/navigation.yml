@@ -1,13 +1,22 @@
 # main links links
 main:
+  - title: "RESEARCH FIELD"
+    url: "/#RESEARCH FIELD"
+    
   - title: "EDUCATION"
     url: "/#EDUCATION"
-
+    
   - title: "ENGLISH PUBLICATIONS"
     url: "/#ENGLISH PUBLICATIONS"
 
   - title: "CHINESE PUBLICATIONS"
     url: "/#CHINESE PUBLICATIONS"
+
+  - title: "MONOGRAPH"
+    url: "/#MONOGRAPH"
+
+  - title: "RESEARCH PROJECT"
+    url: "/#RESEARCH PROJECT"
 
   - title: "CONFERENCE AND INVITED TALK"
     url: "/#CONFERENCE AND INVITED TALK"
@@ -17,3 +26,9 @@ main:
 
   - title: "TEAM MEMBER"
     url: "/#TEAM MEMBER"
+
+  - title: "招生方向"
+    url: "/#招生方向"
+
+  - title: "团队动态"
+    url: "/#团队动态"
