@@ -6,6 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<span class='anchor' id='RESEARCH FIELD'></span>
+
+RESEARCH FIELD
+------
+Communication Effect Studies
+<br />Internet and New Media
+<br />Communication Technology
+
 <span class='anchor' id='EDUCATION'></span>
 
 EDUCATION
@@ -23,7 +32,8 @@ EDUCATION
 
 ENGLISH PUBLICATIONS
 ------
-* **Zhang, R**., & Li, B. (2025). Exploring the dynamics of data sharing in open science among Chinese scholars: An integrated PMT and TPB approach. Global Media and China, 0(0). https://doi.org/10.1177/20594364251319562
+* **Zhang, R**., Zheng, Y., & Li, B\*. (2025). Psychological Barriers to Data Sharing in China’s Scholarly Publishing: A Protection Motivation Theory Approach. Journal of Scholarly Publishing, accepted.
+* **Zhang, R**., & Li, B\*. (2025). Exploring the dynamics of data sharing in open science among Chinese scholars: An integrated PMT and TPB approach. Global Media and China, 0(0). https://doi.org/10.1177/20594364251319562
 * **Zhang, R**., & Xu, J\*. (2024). Subjective norm, self-efficacy, and policy acceptance for open communication science. *International Journal of Communication*, 18, 3964-3986  
 * Xu, J., & **Zhang, R\***. (2024). Attitudinal, normative, and resource factors affecting communication scholars’ intention to adopt an open science: A replication study. *Media and Communication*, 12, 1-17  
 * Zhu, Y., Xu, J.\*, **Zhang, R**., Lan, D., & Jiang, Y. (2024). Prior attitude, individualism and perceived scientists expertise: Exploring motivated reasoning of scientific information about HIV risks of homosexuals in China. *Journal of Media Psychology: Theories, Methods, and Applications*. https://doi.org/10.1027/1864-1105/a000437  
@@ -45,7 +55,20 @@ CHINESE PUBLICATIONS
 * 徐敬宏,<b>张如坤</b>.“新闻找到我”：助推高选择性媒体环境下受众的新闻接触[J].编辑之友,2023,(4):49-55. ("News Finds me": Boosting readers' news exposure in a high-choice media environment)
 * 徐敬宏,<b>张如坤</b>,朱奕.新冠肺炎疫情报道中建设性新闻的传播效果——基于大学生群体的微信实验[J].当代传播,2022,(4):30-36+47. (Communication effect of constructive news during coronavirus pandemic: WeChat experiment on college students)
 * 徐敬宏,<b>张如坤</b>.“介入性”与“客观性”共生:建设性新闻生产实践体系研究——兼与常江教授商榷[J].中国出版,2021,(2):20-26. (Replacing objectivity with intervention? A debate on constructive news production)
-* 徐敬宏,<b>张如坤</b>.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)     
+* 徐敬宏,<b>张如坤</b>.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)
+
+
+<span class='anchor' id='MONOGRAPH'></span>
+
+MONOGRAPH
+------
+*Digital Civilization and the AI-Driven Communication Revolution: Practices and Applications of Large Language Models*. Beijing: Communication University of China Press, forthcoming 2026–2027. 
+
+<span class='anchor' id='RESEARCH PROJECT'></span>
+
+RESEARCH PROJECT
+------
+Guangdong Philosophy and Social Science Foundation 2025 
 
 <span class='anchor' id='CONFERENCE AND INVITED TALK'></span>
 
@@ -59,6 +82,7 @@ CONFERENCE AND INVITED TALK
 <br />• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
 <br />• 75th Annual ICA Conference, Gold Coast, Australia (June 2024) [Conference Presentation].
 <br />• 72nd Annual ICA Conference, Paris, France (May, 2022) [Conference Presentation].
+<br />• School of Media and Communication, Beijing Normal University at Zhuhai, March 14, 2025. “Generative AI and creative research methods” [Invited Talk].
 <br />• School of Humanities, Central South University, July 12, 2024. "How to Use Large Language Models for Empirical Research in Journalism" [Invited Talk].
 
     </div>
@@ -98,10 +122,7 @@ TEAM MEMBER
 <br />•	Jiangxi University of Finance and Economics – Bachelor of Arts and Law (Dual Degree)
 <br /><b>Research Interests</b>
 <br />•	Network and New Media, Media Effects, Large Language Models, Large Language Models
-<br /><b>Academic Experiences</b>
-<br />•	2023 “SFLEP Cup” National English Debate Contest – Third Prize
-<br />•	2022 “SFLEP Cup” National English Speaking Contest – Second Prize
-<br />•	2021 China International "Internet+" Innovation Competition – School-Level Project
+
 
     </div>
 </div>
@@ -119,9 +140,6 @@ TEAM MEMBER
 <br /><b>Research Interests</b>
 <br />•	Intercultural Communication, Media Effects, Social Media Use
 
-<br /><b>Academic Experiences</b>
-<br />•	4th SFLEP Cup National College Students’ Intercultural Competence contest, School First Prize
-<br />•	University Student Innovation and Entrepreneurship Competition, City-Level Project Approval
 
 
     </div>
@@ -139,13 +157,35 @@ TEAM MEMBER
 <br /><b>Research Interests</b>
 <br />•	New Media Communication, Media Effects, International Communication
 
-<br /><b>Academic Experiences</b>
-<br />•	2023 Ningxia University Students' Original Literature Competition
-<br />• 2021 Yinchuan New Media Contest-Third prize
 
 
     </div>
 </div>
+
+<span class='anchor' id='招生方向'></span>
+
+招生方向
+------
+专硕：国际传播
+<br />学硕：传播学 & 计算传播学
+<br />目前团队聚焦于AI的传播效果研究，欢迎有志于探索科研和学术发表的同学报考。E-mail：zhangrukun@szu.edu.cn
+
+
+<span class='anchor' id='团队动态'></span>
+
+团队动态
+------
+祝贺郑忆佳同学的1篇论文即将发表在Journal of Scholarly Publishing期刊
+<br />祝贺谢青青、郑忆佳、刘奕伶同学的3篇论文入选2025年美国丹佛NCA年会
+<br />祝贺郑忆佳、刘奕伶、谢青青同学的1篇论文入选2025年美国丹佛ICA年会
+<br />祝贺谢青青同学的1篇论文入选2025年美国旧金山AEJMC年会
+<br />祝贺谢青青、郑忆佳、刘奕伶同学的1篇论文入选2025年清华大学新闻传播学博士生学术论坛，并获得优秀论文
+<br />祝贺谢青青同学的1篇论文入选中国政法大学2050学子论坛论文
+<br />祝贺谢青青、郑忆佳、刘奕伶同学的3篇摘要入选2025年香港Global Marketing Conference
+<br />祝贺郑忆佳、刘奕伶同学的2篇摘要入选武汉大学第七届智能营销传播学术工作坊
+<br />祝贺郑忆佳、谢青青同学获得2024级硕士研究生新生特等奖学金
+
+<img src='../images/xqq1.jpg' alt="sym" width="60%"><img src='../images/xqq2.jpg' alt="sym" width="60%">
 
 <style>
     .left1{
