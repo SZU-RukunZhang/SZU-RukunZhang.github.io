@@ -75,7 +75,7 @@ RESEARCH PROJECT
 CONFERENCE AND INVITED TALK
 ------
 <div class="wrapper">
-    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="60%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="60%"></div>
+    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="80%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="80%"></div>
     <div class="right1">
       
 • 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
@@ -112,7 +112,7 @@ TEAM MEMBER
 ------
 
 <div class="wrapper">
-    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="60%"><br /><b>Yijia Zheng<br />郑忆佳</b></div>
+    <div class="left1"><img src='../images/zhengyijia.jpg' alt="sym" width="60%"><br /><b>郑忆佳</b></div>
     <div class="right1">
 
       
@@ -129,7 +129,7 @@ TEAM MEMBER
 
 <br />
 <div class="wrapper">
-    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"><br /><b>Yiling Liu<br />刘奕伶</b></div>
+    <div class="left1"><img src='../images/liuyiling.jpg' alt="sym" width="60%"><br /><b>刘奕伶</b></div>
     <div class="right1">
       
 <b>Education</b>
@@ -146,7 +146,7 @@ TEAM MEMBER
 
 <br />
 <div class="wrapper">
-    <div class="left1"><img src='../images/QingQingXie.jpg' alt="sym" width="60%"><br /><b>QingQing Xie<br />谢青青</b></div>
+    <div class="left1"><img src='../images/QingQingXie.jpg' alt="sym" width="60%"><br /><b>谢青青</b></div>
     <div class="right1">
       
 <b>Education</b>
