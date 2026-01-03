@@ -51,11 +51,11 @@ CHINESE PUBLICATIONS
 * 徐敬宏,<b>张如坤</b>,张世文.建设性新闻的冷思考：中西语境、理论风险与实践误区[J].新闻大学,2020,(6):12-22+122. (Reflecting on constructive journalism: Chinese and western contexts, theoretical challenges and practical concerns)
 * 徐敬宏,<b>张如坤</b>.大语言模型和新闻学实证研究：议程、理论与方法[J].当代传播,2024,(1):59-64. (Large language models and empirical research in journalism: Agenda, theory and methods)
 * 徐敬宏,<b>张如坤</b>.大语言模型在学术出版应用中的失范风险与应对策略[J].中国编辑,2024,(2):36-42. (Risks and countermeasures in the application of large language models in academic publishing)
-* 徐敬宏,<b>张如坤</b>.何以圈粉?“转文化传播”的效果研究——以“洋网红”郭杰瑞为例[J].西南民族大学学报(人文社会科学版),2023,44(7):147-153. (How influencer gain fans? Media effect of "transcultural communication")
+* 徐敬宏,<b>张如坤</b>.何以圈粉?"转文化传播"的效果研究——以"洋网红"郭杰瑞为例[J].西南民族大学学报(人文社会科学版),2023,44(7):147-153. (How influencer gain fans? Media effect of "transcultural communication")
 * 徐敬宏,<b>张如坤</b>.ChatGPT在编辑出版行业的应用：机遇、挑战与对策[J].中国编辑,2023,(5):116-122. (The application of ChatGPT in the editing and publishing industry: opportunities, challenges and countermeasures)
-* 徐敬宏,<b>张如坤</b>.“新闻找到我”：助推高选择性媒体环境下受众的新闻接触[J].编辑之友,2023,(4):49-55. ("News Finds me": Boosting readers' news exposure in a high-choice media environment)
+* 徐敬宏,<b>张如坤</b>."新闻找到我"：助推高选择性媒体环境下受众的新闻接触[J].编辑之友,2023,(4):49-55. ("News Finds me": Boosting readers' news exposure in a high-choice media environment)
 * 徐敬宏,<b>张如坤</b>,朱奕.新冠肺炎疫情报道中建设性新闻的传播效果——基于大学生群体的微信实验[J].当代传播,2022,(4):30-36+47. (Communication effect of constructive news during coronavirus pandemic: WeChat experiment on college students)
-* 徐敬宏,<b>张如坤</b>.“介入性”与“客观性”共生:建设性新闻生产实践体系研究——兼与常江教授商榷[J].中国出版,2021,(2):20-26. (Replacing objectivity with intervention? A debate on constructive news production)
+* 徐敬宏,<b>张如坤</b>."介入性"与"客观性"共生:建设性新闻生产实践体系研究——兼与常江教授商榷[J].中国出版,2021,(2):20-26. (Replacing objectivity with intervention? A debate on constructive news production)
 * 徐敬宏,<b>张如坤</b>.迈向开放科学的传播学:机遇、挑战与未来[J].编辑之友,2020,(12):76-84. (Communication stepping towards open science: Opportunities, challenges, and future)
 
 
@@ -80,10 +80,10 @@ CONFERENCE AND INVITED TALK
     <div class="right1">
       
 • 111th Annual NCA Global Convention, Denver, United States (November 2025) [Conference Presentation].
-<br />•• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
+<br />• 110th Annual NCA Global Convention, New Orleans, United States (November 2024) [Conference Presentation].
 <br />• 75th Annual ICA Conference, Gold Coast, Australia (June 2024) [Conference Presentation].
 <br />• 72nd Annual ICA Conference, Paris, France (May, 2022) [Conference Presentation].
-<br />• School of Media and Communication, Beijing Normal University at Zhuhai, March 14, 2025. “Generative AI and creative research methods” [Invited Talk].
+<br />• School of Media and Communication, Beijing Normal University at Zhuhai, March 14, 2025. "Generative AI and creative research methods" [Invited Talk].
 <br />• School of Humanities, Central South University, July 12, 2024. "How to Use Large Language Models for Empirical Research in Journalism" [Invited Talk].
 
     </div>
