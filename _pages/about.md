@@ -76,7 +76,7 @@ RESEARCH PROJECT
 CONFERENCE AND INVITED TALK
 ------
 <div class="wrapper">
-    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="80%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="80%"></div>
+    <div class="left1"><img src='../images/NCA.jpg' alt="sym" width="70%"><br /><br /><img src='../images/ICA.jpg' alt="sym" width="70%"><br /><img src='../images/nca_2026.jpg' alt="sym" width="70%"></div>
     <div class="right1">
       
 • 111th Annual NCA Global Convention, Denver, United States (November 2025) [Conference Presentation].
