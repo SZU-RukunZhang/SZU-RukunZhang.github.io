@@ -109,14 +109,11 @@ AWARDS AND HONORS
   Academic Year: 2015-2016
 
 
-    </div>
-</div>
-
 <span class='anchor' id='招生方向'></span>
 
 招生方向
 ------
-• 专硕：国际传播
+• 专硕：健康传播
 <br />• 学硕：传播学 & 计算传播学
 <br />• 目前团队聚焦于AI的传播效果研究，欢迎有志于探索科研和学术发表的同学报考。E-mail：zhangrukun@szu.edu.cn
 
